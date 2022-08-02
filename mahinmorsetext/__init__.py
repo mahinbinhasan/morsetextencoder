@@ -1,0 +1,2 @@
+from mahinmorsetext.mahinmorsetext import texttomorse
+from mahinmorsetext.mahinmorsetext import morsetotext
